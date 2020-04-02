@@ -36,7 +36,7 @@ ETL is short for extract, transform, load, three database functions that are com
 
 1. Extract data from different sources such as
     1. csv
-    2. json files
+    2. Json files
     3.  API's
 2. Transform Data
     1. combining data from different sources
