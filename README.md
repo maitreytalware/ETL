@@ -6,6 +6,7 @@
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ol>
         <li><a href="#ref1">Introduction </a></li>
+        <li><a href="#ref1">Data - World Bank</a></li>
         <li><a href="#ref2">Exercises on Extract Transform Load</a></li>
         <ul>
          <li><a href="#ref3">Extract exercises</a></li>
@@ -32,7 +33,16 @@ ETL is short for extract, transform, load, three database functions that are com
 <img src="images/ETL.jpg">
 <a href="https://panoply.io/data-warehouse-guide/3-ways-to-build-an-etl-process/">Source</a>
 
-## 2. Exercises on Extract Transform Load
+## 2. Data - World Bank
+#### The data comes from two sources:
+
+- **World Bank Indicator Data** - This data contains socio-economic indicators for countries around the world. A few example indicators include population, arable land, and central government debt.
+
+- **World Bank Project Data** - This data set contains information about World Bank project lending since 1947.
+
+Both of these data sets are available in different formats including as a csv file, json, or xml. You can download the csv directly or you can use the World Bank APIs to extract data from the World Bank's servers.
+
+## 3. Exercises on Extract Transform Load
 
 1. Extract data from different sources such as
     1. csv
@@ -54,13 +64,13 @@ ETL is short for extract, transform, load, three database functions that are com
     1. Send the transformed data to a database
 
 
-## 3. ETL Pipeline
+## 4. ETL Pipeline
 - code an ETL pipeline
 
-## 4. Results
+## 5. Results
 *under development*
-## 5. Conclusion
+## 6. Conclusion
 *under development*
 
-## 6. References
+## 7. References
 *under development*
