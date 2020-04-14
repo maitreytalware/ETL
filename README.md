@@ -14,7 +14,6 @@
         <li><a href="#ref4">Load exercises</a></li>
         </ul>
         <li><a href="#ref5">ETL Pipeline</a></li>
-        <li><a href="#ref7">Results</a></li>
         <li><a href="#ref9">Conclusion section</a></li>
         <li><a href="#ref9">References</a></li>
     </ol>
@@ -66,11 +65,12 @@ Both of these data sets are available in different formats including as a csv fi
 
 ## 4. ETL Pipeline
 - code an ETL pipeline
-
-## 5. Results
-*under development*
 ## 6. Conclusion
-*under development*
+We succesfully learnt the basics of each phase of ETL and used the knowledge learnt to build a ETL pipeline 
 
 ## 7. References
-*under development*
+https://www.udacity.com/
+
+https://pandas.pydata.org/
+
+https://numpy.org/
